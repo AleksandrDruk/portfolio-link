@@ -1,5 +1,5 @@
 <div style="margin-bottom: 10px;">
-  <a href="http://almerna.ru" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
+  <a href="http://almerna.ru/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
     <img src="https://img.shields.io/badge/WordPress-0073AA?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" style="margin-right: 10px;"/>
     Интернет-магазин(Wordpress)
   </a>
