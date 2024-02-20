@@ -41,7 +41,7 @@
 </div>
 
 <div style="margin-bottom: 10px;">
-  <a href="https://alexhillel1.github.io/jet-skis-online-store/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
+  <a href="https://aleksandrdruk.github.io/project-jet-store/index.html" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
     <img src="https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" style="margin-right: 10px;"/>
     Интернет-магазин (HTML/CSS)
   </a>
