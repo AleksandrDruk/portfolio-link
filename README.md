@@ -1,11 +1,4 @@
 <div style="margin-bottom: 10px;">
-  <a href="https://aleksandrdruk.github.io/project-currency-coin/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap" style="margin-right: 10px;"/>
-    Лендинг (Bootstrap) (весь контент создан с помощью AI)
-  </a>
-</div>
-
-<div style="margin-bottom: 10px;">
   <a href="http://onlinestore.tw1.su/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
     <img src="https://img.shields.io/badge/WordPress-0073AA?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" style="margin-right: 10px;"/>
     Интернет-магазин(Wordpress)(весь контент создан с помощью AI)
@@ -33,6 +26,12 @@
   </a>
 </div>
 
+<div style="margin-bottom: 10px;">
+  <a href="https://aleksandrdruk.github.io/project-currency-coin/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap" style="margin-right: 10px;"/>
+    Лендинг (Bootstrap) (весь контент создан с помощью AI)
+  </a>
+</div>
 
 <div style="margin-bottom: 10px;">
   <a href="https://aleksandrdruk.github.io/project-jet-store/index.html" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black; justify-content: center;">
